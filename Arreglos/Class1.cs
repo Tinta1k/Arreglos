@@ -14,8 +14,6 @@ namespace Arreglos
             Console.WriteLine("Hola");
         /* xd*/
         
-        /* Jonathan*/
-        /*Martínez*/
         /* Jonathan */
         /* Martínez */
         }
